@@ -1,2 +1,4 @@
 # WorkerMan-Redis-Queue
-稍后补上
+
+要先安装：
+composer require clue/redis-react
